@@ -26,7 +26,7 @@ else :
 
 
 # Avec le modulo, on verifie si le nombre est pair ou sinon impair
-if nombre%2 == 0 :
+if nombre%7 == 0 :
     print("le nombre est pair")
 else :
     print("le nombre est impair")
